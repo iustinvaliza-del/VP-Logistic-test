@@ -1,0 +1,119 @@
+{
+  "Metadata": {
+    "title": "VP Logistic & Distribution | Distribuitor Engros Băuturi",
+    "description": "Distribuitorul dumneavoastră de încredere pentru băuturi engros în România. Peste 10 ani de experiență în logistică și distribuția băuturilor."
+  },
+  "Navbar": {
+    "home": "Acasă",
+    "about": "Despre noi",
+    "services": "Servicii",
+    "brands": "Produse",
+    "contact": "Contact",
+    "cta": "Solicită ofertă"
+  },
+  "Hero": {
+    "badge": "Din 2013",
+    "tagline": "Partenerul dumneavoastră de încredere în distribuția băuturilor",
+    "subtitle": "Distribuție engros de băuturi cu acoperire națională, din 2013",
+    "cta": "Contactați-ne",
+    "secondaryCta": "Descoperă serviciile"
+  },
+  "About": {
+    "sectionTitle": "Despre Noi",
+    "sectionSubtitle": "Peste un deceniu de excelență în distribuția băuturilor",
+    "description": "Fondată în octombrie 2013, VP Logistic & Distribution s-a dezvoltat constant, devenind un partener de încredere în distribuția engros de băuturi din România. Cu sediul în București și trei puncte de lucru suplimentare, asigurăm acoperire națională și livrări rapide către clienții noștri.",
+    "mission": "Misiunea noastră este să oferim servicii de distribuție de cea mai înaltă calitate, conectând producătorii de băuturi cu partenerii comerciali prin soluții logistice eficiente și de încredere.",
+    "missionTitle": "Misiunea Noastră",
+    "valuesTitle": "Valorile Noastre",
+    "values": {
+      "reliability": "Fiabilitate",
+      "reliabilityDesc": "Livrări la timp, de fiecare dată",
+      "quality": "Calitate",
+      "qualityDesc": "Standarde înalte în tot ceea ce facem",
+      "partnership": "Parteneriat",
+      "partnershipDesc": "Relații de lungă durată cu clienții noștri",
+      "efficiency": "Eficiență",
+      "efficiencyDesc": "Procese optimizate pentru rezultate maxime"
+    }
+  },
+  "Stats": {
+    "years": "Ani de Experiență",
+    "employees": "Angajați",
+    "locations": "Locații",
+    "brands": "Produse Distribuite"
+  },
+  "Services": {
+    "sectionTitle": "Serviciile Noastre",
+    "sectionSubtitle": "Soluții complete de distribuție și logistică pentru industria băuturilor",
+    "wholesale": {
+      "title": "Distribuție Engros",
+      "description": "Furnizăm o gamă largă de băuturi către retaileri, HoReCa și alți parteneri comerciali la prețuri competitive."
+    },
+    "logistics": {
+      "title": "Logistică Integrată",
+      "description": "Gestionăm întregul lanț logistic, de la preluarea comenzilor până la livrarea finală către client."
+    },
+    "warehousing": {
+      "title": "Depozitare",
+      "description": "Spații de depozitare moderne și bine organizate care asigură păstrarea optimă a produselor."
+    },
+    "delivery": {
+      "title": "Livrare Rapidă",
+      "description": "Flotă proprie de transport care garantează livrări prompte și în condiții optime."
+    },
+    "coverage": {
+      "title": "Acoperire Națională",
+      "description": "Rețea de distribuție extinsă cu acoperire în toată România prin cele patru locații ale noastre."
+    },
+    "consulting": {
+      "title": "Consultanță",
+      "description": "Oferim consultanță specializată pentru optimizarea portofoliului de băuturi și a strategiei de vânzări."
+    }
+  },
+  "Brands": {
+    "sectionTitle": "Produsele Noastre",
+    "sectionSubtitle": "Portofoliu diversificat de băuturi pentru fiecare nevoie",
+    "categories": {
+      "spirits": "Spirtoase",
+      "wine": "Vinuri",
+      "beer": "Bere",
+      "softDrinks": "Răcoritoare",
+      "water": "Apă",
+      "juice": "Sucuri"
+    }
+  },
+  "Contact": {
+    "sectionTitle": "Contact",
+    "sectionSubtitle": "Luați legătura cu echipa noastră",
+    "form": {
+      "name": "Nume complet",
+      "email": "Adresă de email",
+      "phone": "Telefon",
+      "company": "Companie",
+      "message": "Mesajul dumneavoastră",
+      "submit": "Trimite mesajul",
+      "sending": "Se trimite...",
+      "success": "Mesajul a fost trimis cu succes! Vă vom contacta în cel mai scurt timp.",
+      "error": "A apărut o eroare. Vă rugăm încercați din nou."
+    },
+    "info": {
+      "addressLabel": "Adresă",
+      "address": "Bdul. Timișoara 63, Sector 6, București",
+      "phoneLabel": "Telefon",
+      "phone": "+40 762 241 444",
+      "emailLabel": "Email",
+      "email": "vplogistic2013@gmail.com",
+      "scheduleLabel": "Program",
+      "schedule": "Luni - Vineri: 08:00 - 17:00"
+    }
+  },
+  "Footer": {
+    "description": "VP Logistic & Distribution - Distribuitorul dumneavoastră de băuturi engros din România, din 2013.",
+    "quickLinks": "Linkuri Rapide",
+    "ourServices": "Servicii",
+    "contactInfo": "Contact",
+    "rights": "Toate drepturile rezervate.",
+    "privacy": "Politica de Confidențialitate",
+    "terms": "Termeni și Condiții"
+  }
+}

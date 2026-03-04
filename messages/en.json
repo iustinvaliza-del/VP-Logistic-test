@@ -1,0 +1,119 @@
+{
+  "Metadata": {
+    "title": "VP Logistic & Distribution | Wholesale Beverage Distributor",
+    "description": "Your trusted wholesale beverage distributor in Romania. Over 10 years of experience in beverage logistics and distribution."
+  },
+  "Navbar": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "brands": "Products",
+    "contact": "Contact",
+    "cta": "Get a Quote"
+  },
+  "Hero": {
+    "badge": "Since 2013",
+    "tagline": "Your Trusted Partner in Beverage Distribution",
+    "subtitle": "Wholesale beverage distribution with national coverage, since 2013",
+    "cta": "Contact Us",
+    "secondaryCta": "Explore Services"
+  },
+  "About": {
+    "sectionTitle": "About Us",
+    "sectionSubtitle": "Over a decade of excellence in beverage distribution",
+    "description": "Founded in October 2013, VP Logistic & Distribution has grown steadily, becoming a trusted partner in wholesale beverage distribution across Romania. Based in Bucharest with three additional locations, we ensure national coverage and fast deliveries to our clients.",
+    "mission": "Our mission is to provide the highest quality distribution services, connecting beverage producers with commercial partners through efficient and reliable logistics solutions.",
+    "missionTitle": "Our Mission",
+    "valuesTitle": "Our Values",
+    "values": {
+      "reliability": "Reliability",
+      "reliabilityDesc": "On-time deliveries, every time",
+      "quality": "Quality",
+      "qualityDesc": "High standards in everything we do",
+      "partnership": "Partnership",
+      "partnershipDesc": "Long-term relationships with our clients",
+      "efficiency": "Efficiency",
+      "efficiencyDesc": "Optimized processes for maximum results"
+    }
+  },
+  "Stats": {
+    "years": "Years of Experience",
+    "employees": "Employees",
+    "locations": "Locations",
+    "brands": "Products Distributed"
+  },
+  "Services": {
+    "sectionTitle": "Our Services",
+    "sectionSubtitle": "Complete distribution and logistics solutions for the beverage industry",
+    "wholesale": {
+      "title": "Wholesale Distribution",
+      "description": "We supply a wide range of beverages to retailers, HoReCa, and other commercial partners at competitive prices."
+    },
+    "logistics": {
+      "title": "Integrated Logistics",
+      "description": "We manage the entire logistics chain, from order processing to final delivery to the client."
+    },
+    "warehousing": {
+      "title": "Warehousing",
+      "description": "Modern and well-organized storage facilities that ensure optimal product preservation."
+    },
+    "delivery": {
+      "title": "Fast Delivery",
+      "description": "Our own transport fleet guarantees prompt deliveries in optimal conditions."
+    },
+    "coverage": {
+      "title": "National Coverage",
+      "description": "Extensive distribution network covering all of Romania through our four locations."
+    },
+    "consulting": {
+      "title": "Consulting",
+      "description": "We provide specialized consulting to optimize your beverage portfolio and sales strategy."
+    }
+  },
+  "Brands": {
+    "sectionTitle": "Our Products",
+    "sectionSubtitle": "Diversified beverage portfolio for every need",
+    "categories": {
+      "spirits": "Spirits",
+      "wine": "Wines",
+      "beer": "Beer",
+      "softDrinks": "Soft Drinks",
+      "water": "Water",
+      "juice": "Juices"
+    }
+  },
+  "Contact": {
+    "sectionTitle": "Contact",
+    "sectionSubtitle": "Get in touch with our team",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone",
+      "company": "Company",
+      "message": "Your Message",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent successfully! We will contact you shortly.",
+      "error": "An error occurred. Please try again."
+    },
+    "info": {
+      "addressLabel": "Address",
+      "address": "Bdul. Timisoara 63, Sector 6, Bucharest",
+      "phoneLabel": "Phone",
+      "phone": "+40 762 241 444",
+      "emailLabel": "Email",
+      "email": "vplogistic2013@gmail.com",
+      "scheduleLabel": "Schedule",
+      "schedule": "Monday - Friday: 08:00 - 17:00"
+    }
+  },
+  "Footer": {
+    "description": "VP Logistic & Distribution - Your wholesale beverage distributor in Romania, since 2013.",
+    "quickLinks": "Quick Links",
+    "ourServices": "Services",
+    "contactInfo": "Contact",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions"
+  }
+}
